@@ -35,6 +35,8 @@ namespace POO_Unidad1
         miAuto.Color = "Rojo";
         miAuto.Anio = 2020;
         miAuto.VelocidadActual = 180.59;
+        miAuto.Acelerar(20.5);
+        miAuto.Frenar(19.5);
         miAuto.MostrarInformación();
 
         
@@ -44,6 +46,8 @@ namespace POO_Unidad1
         miMoto.Color = "Azul";
         miMoto.Anio = 2009;
         miMoto.VelocidadActual = 200.89;
+        miAuto.Acelerar(21.5);
+        miAuto.Frenar(20.59);
         miMoto.MostrarInformación();
         }
     }
