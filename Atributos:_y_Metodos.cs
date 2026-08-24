@@ -46,8 +46,8 @@ namespace POO_Unidad1
         miMoto.Color = "Azul";
         miMoto.Anio = 2009;
         miMoto.VelocidadActual = 0;
-        miAuto.Acelerar(21.5);
-        miAuto.Frenar(9.5);
+        miMoto.Acelerar(21.5);
+        miMoto.Frenar(9.5);
         miMoto.MostrarInformación();
         }
     }
