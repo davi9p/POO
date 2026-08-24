@@ -35,8 +35,8 @@ namespace POO_Unidad1
         miAuto.Color = "Rojo";
         miAuto.Anio = 2020;
         miAuto.VelocidadActual = 0;
-        miAuto.Acelerar(50.0);
-        miAuto.Frenar(12.0);
+        miAuto.Acelerar(50.2);
+        miAuto.Frenar(12.8);
         miAuto.MostrarInformación();
 
         
